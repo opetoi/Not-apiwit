@@ -28,5 +28,3 @@ while True:
         print("Please Enter a Number")
 
 print("Congrat! You got it in", guesses, "guessss")
-
-Wanna play [Rock, Paper, Scissors?](https://github.com/opetoi/Gpa-calculate/blob/main/Rock%2C%20Paper%2C%20Scissors.py)
