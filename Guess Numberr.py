@@ -28,3 +28,5 @@ while True:
         print("Please Enter a Number")
 
 print("Congrat! You got it in", guesses, "guessss")
+
+[Wanna play Rock, Paper, Scissors?]
