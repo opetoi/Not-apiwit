@@ -38,5 +38,5 @@ Entry(root,textvariable=clas).grid(row=0,column=0)
 Entry(root,textvariable=grad).grid(row=0,column=1)
 Button(root,text="เพิ่มวิชา",command=add,bg="#cce6ff").grid(row=0,column=2)
 
-
+# hello
 root.mainloop()
